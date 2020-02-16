@@ -1,4 +1,4 @@
-You can find more about this product at karanb1.github.io/idem
+You can find more about this product at https://karanb1.github.io/idem
 
 # IDEM by Bug Slayers for HackBMU - 2020
 
